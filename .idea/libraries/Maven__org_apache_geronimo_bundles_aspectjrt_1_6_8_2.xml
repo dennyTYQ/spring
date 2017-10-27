@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.geronimo.bundles:aspectjrt:1.6.8_2">
+    <CLASSES>
+      <root url="jar://D:/idea/maven_repository/org/apache/geronimo/bundles/aspectjrt/1.6.8_2/aspectjrt-1.6.8_2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/idea/maven_repository/org/apache/geronimo/bundles/aspectjrt/1.6.8_2/aspectjrt-1.6.8_2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/idea/maven_repository/org/apache/geronimo/bundles/aspectjrt/1.6.8_2/aspectjrt-1.6.8_2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
